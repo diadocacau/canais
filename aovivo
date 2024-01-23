@@ -2368,8 +2368,8 @@ RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 https://cdnlive.shooowit.net/rtvcelive/channel1.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd5B9_jHhR8GApw-1sWXAcrf3b8fJywiu038XhnzTOt2CuTTlPFqDXf0G7wCh6np990quXBqZ-5GwdwXqADFgCO4IdDJ52xXJCFOeZ-h8BUcQIWYyHplmohdFY3JUi7Zlh8T_IsyRjrU_zfQJxk7fKA2dYod-ring9CjGCnFWfKWba9ogY2xjEDktbJGuH/s512/ESPANHA.png" group-title="ESPANHA" tvg-name="",R TV E SERIES
-https://rtvelivestream.akamaized.net/eventual/gofast/play_series_main_576.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd5B9_jHhR8GApw-1sWXAcrf3b8fJywiu038XhnzTOt2CuTTlPFqDXf0G7wCh6np990quXBqZ-5GwdwXqADFgCO4IdDJ52xXJCFOeZ-h8BUcQIWYyHplmohdFY3JUi7Zlh8T_IsyRjrU_zfQJxk7fKA2dYod-ring9CjGCnFWfKWba9ogY2xjEDktbJGuH/s512/ESPANHA.png" group-title="ESPANHA" tvg-name="",R TV E CINE
+https://rtvelivestream.akamaized.net/eventual/gofast/play_cine_main_576.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd5B9_jHhR8GApw-1sWXAcrf3b8fJywiu038XhnzTOt2CuTTlPFqDXf0G7wCh6np990quXBqZ-5GwdwXqADFgCO4IdDJ52xXJCFOeZ-h8BUcQIWYyHplmohdFY3JUi7Zlh8T_IsyRjrU_zfQJxk7fKA2dYod-ring9CjGCnFWfKWba9ogY2xjEDktbJGuH/s512/ESPANHA.png" group-title="ESPANHA" tvg-name="",R TV E CRIMEN
@@ -2380,8 +2380,8 @@ https://rtvelivestream.akamaized.net/eventual/gofast/play_crimen_main_576.m3u8
 https://rtvelivestream.akamaized.net/eventual/gofast/play_epoca_main_576.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd5B9_jHhR8GApw-1sWXAcrf3b8fJywiu038XhnzTOt2CuTTlPFqDXf0G7wCh6np990quXBqZ-5GwdwXqADFgCO4IdDJ52xXJCFOeZ-h8BUcQIWYyHplmohdFY3JUi7Zlh8T_IsyRjrU_zfQJxk7fKA2dYod-ring9CjGCnFWfKWba9ogY2xjEDktbJGuH/s512/ESPANHA.png" group-title="ESPANHA" tvg-name="",R TV E CINE
-https://rtvelivestream.akamaized.net/eventual/gofast/play_cine_main_576.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd5B9_jHhR8GApw-1sWXAcrf3b8fJywiu038XhnzTOt2CuTTlPFqDXf0G7wCh6np990quXBqZ-5GwdwXqADFgCO4IdDJ52xXJCFOeZ-h8BUcQIWYyHplmohdFY3JUi7Zlh8T_IsyRjrU_zfQJxk7fKA2dYod-ring9CjGCnFWfKWba9ogY2xjEDktbJGuH/s512/ESPANHA.png" group-title="ESPANHA" tvg-name="",R TV E SERIES
+https://rtvelivestream.akamaized.net/eventual/gofast/play_series_main_576.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd5B9_jHhR8GApw-1sWXAcrf3b8fJywiu038XhnzTOt2CuTTlPFqDXf0G7wCh6np990quXBqZ-5GwdwXqADFgCO4IdDJ52xXJCFOeZ-h8BUcQIWYyHplmohdFY3JUi7Zlh8T_IsyRjrU_zfQJxk7fKA2dYod-ring9CjGCnFWfKWba9ogY2xjEDktbJGuH/s512/ESPANHA.png" group-title="ESPANHA" tvg-name="",R TV MOGIN
@@ -2391,14 +2391,6 @@ https://cloudvideo.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd5B9_jHhR8GApw-1sWXAcrf3b8fJywiu038XhnzTOt2CuTTlPFqDXf0G7wCh6np990quXBqZ-5GwdwXqADFgCO4IdDJ52xXJCFOeZ-h8BUcQIWYyHplmohdFY3JUi7Zlh8T_IsyRjrU_zfQJxk7fKA2dYod-ring9CjGCnFWfKWba9ogY2xjEDktbJGuH/s512/ESPANHA.png" group-title="ESPANHA" tvg-name="",R TV VILAFRANCA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd5B9_jHhR8GApw-1sWXAcrf3b8fJywiu038XhnzTOt2CuTTlPFqDXf0G7wCh6np990quXBqZ-5GwdwXqADFgCO4IdDJ52xXJCFOeZ-h8BUcQIWYyHplmohdFY3JUi7Zlh8T_IsyRjrU_zfQJxk7fKA2dYod-ring9CjGCnFWfKWba9ogY2xjEDktbJGuH/s512/ESPANHA.png" group-title="ESPANHA" tvg-name="",RADIO 3
-https://ztnr.rtve.es/ztnr/2795617.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd5B9_jHhR8GApw-1sWXAcrf3b8fJywiu038XhnzTOt2CuTTlPFqDXf0G7wCh6np990quXBqZ-5GwdwXqADFgCO4IdDJ52xXJCFOeZ-h8BUcQIWYyHplmohdFY3JUi7Zlh8T_IsyRjrU_zfQJxk7fKA2dYod-ring9CjGCnFWfKWba9ogY2xjEDktbJGuH/s512/ESPANHA.png" group-title="ESPANHA" tvg-name="",RADIO NACIONAL
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586409/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd5B9_jHhR8GApw-1sWXAcrf3b8fJywiu038XhnzTOt2CuTTlPFqDXf0G7wCh6np990quXBqZ-5GwdwXqADFgCO4IdDJ52xXJCFOeZ-h8BUcQIWYyHplmohdFY3JUi7Zlh8T_IsyRjrU_zfQJxk7fKA2dYod-ring9CjGCnFWfKWba9ogY2xjEDktbJGuH/s512/ESPANHA.png" group-title="ESPANHA" tvg-name="",RIBERA TV
